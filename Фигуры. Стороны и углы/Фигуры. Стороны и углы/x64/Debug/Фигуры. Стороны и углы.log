@@ -1,0 +1,4 @@
+﻿  Фигуры. Стороны и углы.cpp
+D:\2533\CPP\Базовое программирование на C++\Lesson 4\Фигуры. Стороны и углы\Фигуры. Стороны и углы\Фигуры. Стороны и углы.cpp(96,20): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+D:\2533\CPP\Базовое программирование на C++\Lesson 4\Фигуры. Стороны и углы\Фигуры. Стороны и углы\Фигуры. Стороны и углы.cpp(101,20): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  Фигуры. Стороны и углы.vcxproj -> D:\2533\CPP\Базовое программирование на C++\Lesson 4\Фигуры. Стороны и углы\x64\Debug\Фигуры. Стороны и углы.exe
